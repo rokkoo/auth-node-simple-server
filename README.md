@@ -2,7 +2,7 @@
 
 This server have enabled experimental modules (mjs)
 
-```node
+```javascript
 npm install
 ```
 
